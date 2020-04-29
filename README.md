@@ -1,2 +1,2 @@
 # A/B-test-results
-Example project to understand the results of an A/B test of a new page design run by an e-commerce website.
+Example project to understand the results of an A/B test of a new page design.
